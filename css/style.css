@@ -1,0 +1,20 @@
+body {
+  background-color: darkgrey;
+}
+h1 {
+	text-align: center;
+	color: black;
+	font-family: Allura, Regular, sans-serif;
+
+}
+h2 {
+	text-align: center;
+	font-family: Allura, Regular, sans-serif;
+}
+a {
+	font-size: 25px;
+	link {color:#ff2408;}
+	visited {color:#ff2408;}
+	hover {color:#1E90FF;}
+
+}
